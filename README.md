@@ -19,7 +19,7 @@ If you find this code useful in your research, please cite:
 
 @inproceedings{densecap,  
   title={Dense Captioning of Natural Scenes in Spanish},  
-  author={Gomez-Garay, ALejandro and Raducanu, Bogdan and Salas, Joaquin},  
+  author={Gomez-Garay, Alejandro and Raducanu, Bogdan and Salas, Joaquín},  
   booktitle={Pattern Recognition-10th Mexican Conference, MCPR 2018, Puebla, Mexico, June 27-30, 2018, Proceedings},  
   year={2018}  
 }  
