@@ -24,3 +24,4 @@ If you find this code useful in your research, please cite:
   year={2018}  
 }  
 
+As a derivation from [Visual Genome English captions](http://visualgenome.org/api/v0/api_home.html), we provide this dataset with the [Creative Commons CC BY 4.0 License](http://creativecommons.org/licenses/by/4.0/)
