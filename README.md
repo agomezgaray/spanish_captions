@@ -15,7 +15,7 @@ We provide:
     A pretrained model of DenseCap with the captions in Spanish  
     References to the code to run the model on new images, on either CPU or GPU  
     
-If you find this code useful in your research, please cite:  
+If you find this dataset useful in your research, please cite:  
 
 @inproceedings{densecap,  
   title={Dense Captioning of Natural Scenes in Spanish},  
