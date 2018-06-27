@@ -13,7 +13,7 @@ The DenseCap model is a deep convolutional neural network trained in an end-to-e
 
 We provide:  
 
-    A dataset of captions in Spanish language (to get the [set in JSON format]{https://drive.google.com/file/d/1WoSTwcjFnh11bBKdBOkVkaHtcJKKjJ0P/view?usp=sharing} 
+    A dataset of captions in Spanish language (to get the [set in JSON format](https://drive.google.com/file/d/1WoSTwcjFnh11bBKdBOkVkaHtcJKKjJ0P/view?usp=sharing) 
      
 If you find this dataset useful in your research, please cite:  
 
