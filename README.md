@@ -11,9 +11,11 @@ The paper addresses the problem of construct and test a dataset of captions in S
 
 The DenseCap model is a deep convolutional neural network trained in an end-to-end fashion on the Visual Genome dataset.  
 
+
 We provide:  
 
-    A dataset of captions in Spanish language, get the [set in JSON format](http://www.cicataqro.ipn.mx) .
+    A dataset of captions in Spanish language, get the [set in JSON format](https://drive.google.com/file/d/1WoSTwcjFnh11bBKdBOkVkaHtcJKKjJ0P/view?usp=sharing)
+
      
 If you find this dataset useful in your research, please cite:  
 
