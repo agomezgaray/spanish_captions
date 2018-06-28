@@ -1,5 +1,5 @@
 # Dense Captioning of Natural Scenes in Spanish
-This is the dataset with Spanish captions for the paper 
+This is the dataset with Spanish captions for the paper  
 
 Dense Captioning of Natural Scenes in Spanish  
 Alejandro Gomez-Garay, Bogdan Raducanu, Joaquín Salas  
