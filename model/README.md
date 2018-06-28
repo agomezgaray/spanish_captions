@@ -1,7 +1,7 @@
 # Trained model for Dense Captioning in Spanish
 A pretrained model of DenseCap with the captions in Spanish  
 
-This model was trained with the first version of the Spanish captions, the file region_descriptions_v1_15027_palabras.json
+This model was trained with the first version of the Spanish captions, the file region_descriptions_v1_15027_palabras.json  
 
 Files:  
 
